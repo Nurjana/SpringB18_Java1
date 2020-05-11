@@ -20,7 +20,7 @@ print:
         Scanner input = new Scanner(System.in);
         String[] words = {input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine()};
 
-
+//first and last character of string in array, prints out without []
         for (String each:words){
             String str =each.charAt(0)+""+each.charAt(each.length()-1);
             System.out.println(str);
@@ -28,8 +28,13 @@ print:
 
        // for(String each:words){
 
-            }
+//            }
 
+
+        // first and last character of array [as,ad,as,da,]
+        for (int i=0; i<words.length;i++){
+            words[i]=""+ words[i].charAt(0)+words[i].charAt(words[i].length()-1);
+        }System.out.println(Arrays.toString(words));
         }
 
-    }
+    }}

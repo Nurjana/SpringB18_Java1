@@ -1,0 +1,27 @@
+package day34_CustomClass;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class ObjectMemory {
+
+    int a=100;// instance variable
+
+    public static void main(String[] args) {
+        ArrayList <Integer> list1 =new ArrayList<>(Arrays.asList(10,20,30,40));
+        ArrayList<Integer> list2 =list1;
+
+        list1.remove(2);
+        System.out.println(list1);// this will remove objec ton index 2
+        System.out.println(list2);// same will be removed from list2, since list1=list2
+
+        System.out.println("=============================");
+
+        String str1=new String("cybertek");
+        String str2=str1;
+
+        str1=str1.toUpperCase();
+        System.out.println(str1);//capital CYBERTEK
+        System.out.println(str2);//cybertek
+    }
+}

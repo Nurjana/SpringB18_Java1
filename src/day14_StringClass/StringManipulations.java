@@ -4,21 +4,21 @@ public class StringManipulations {
     public static void main(String[] args) {
         String str ="I like to learn JAva. I like to watch the movie Jumanji";
         int a1 =str.indexOf("J");//returns the first matching one
-        System.out.println(a1);
+        System.out.println(a1);//16
 
-        int a2 =str.indexOf("Jum");
+        int a2 =str.indexOf("Jum");//48
         System.out.println(a2);
 
         int a3= str.indexOf("I");
-        System.out.println(a3);
+        System.out.println(a3);//0
 
         String s="I like Java, and I like reading";
 
         int b1 =s.lastIndexOf("I");
-        System.out.println(b1);
+        System.out.println(b1);//17
 
         int b2= s.lastIndexOf("l");
-        System.out.println(b2);
+        System.out.println(b2);//19
 
         String z= "I like C#, C# is cool";
         int c1=z.indexOf("C");
