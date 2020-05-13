@@ -2,21 +2,27 @@ package Replit;
 
 import java.util.Arrays;
 
-public class CombineArrays {}
-//    public static String[] combineNames(String[] first_names, String[] last_names) {
-        // for (int i=0; i<words.length;i++){
-        //            words[i]=""+ words[i].charAt(0)+words[i].charAt(words[i].length()-1);
+public class CombineArrays {
+    public static String[] combineNames(String[] first_names, String[] last_names) {
+        String [] fullName= new String[first_names.length];
+        String a="";
 
-//        String firstLast="";
-//        for (int i=0; i<first_names.length;
-//    }return firstLast;
-//    }
-//
-//    public static void main(String[] args)
-//    {
-//        //feel free to test code here
-//    }
-//}
+        for (int i=0;i<last_names.length;i++ ){
+            a=first_names[i]+" "+last_names[i];
+            fullName [i]=a;
+        }return fullName;
+
+    }
+
+
+    public static void main(String[] args)
+    {
+       String [] first_names ={"Nurjana","Aylin"};
+       String [] last_names ={"Ashiralieva"," Jarkynbaeva"};
+        System.out.println(Arrays.toString(combineNames(first_names,last_names)));
+       //feel free to test code here
+    }
+}
 /*
 Complete the combineNames method to return a new String array that is composed of the first name and last name of each of the parameters.
 
