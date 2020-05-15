@@ -3,32 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b94b9a75-eb3c-4226-851e-e40d2fa5873f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/OfficeHours/_5_13_20/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/OfficeHours/_5_13_20/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/OfficeHours/_5_13_20/studentObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/OfficeHours/_5_13_20/studentObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/CircleObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/ConstructorCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/ConstructorCalls2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/ConstructorCalls3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/ConstructorPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/EmployeeSalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/SalaryCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/ShoppingList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day_38_Constructors/dog_objects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/CircleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/CircleObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/ConstructorCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/ConstructorCalls2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/ConstructorCalls3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/ConstructorPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/EmployeeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/EmployeeSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/SalaryCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/ShoppingList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Constructors/dog_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day38_Constructors/dog_objects.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +58,7 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/AccessModifier">
               <provider selected="true" editor-type-id="text-editor">
@@ -106,7 +80,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/Test.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
+                <state relative-caret-position="231">
                   <caret line="11" selection-start-line="11" selection-end-line="11" />
                 </state>
               </provider>
@@ -115,12 +89,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/Test.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="231">
-                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
                 </state>
               </provider>
             </entry>
@@ -226,8 +200,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -239,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -286,11 +261,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589513672363" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589517833573" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
@@ -418,16 +392,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.20604026" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20604026" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" weight="0.35612535" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32905984" />
@@ -1043,13 +1016,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/AccessModifiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/AccessModifier">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -1057,10 +1023,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/AccessModifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
