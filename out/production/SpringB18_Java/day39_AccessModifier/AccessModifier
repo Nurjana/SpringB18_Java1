@@ -1,0 +1,13 @@
+Access modifier
+-public- accecable everywhere
+-protected
+-default -  given by default, when key words are not given.
+            its only accecable within the same package
+-private- access to the class is very limited, canot be used outside the class
+
+Top level classs can hold two access modifiers:public and default
+
+
+PUBLIC:  methods, variables
+    int defaultAccess =1000;//default
+    public int publicAccess=2000;//public

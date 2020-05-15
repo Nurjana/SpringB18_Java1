@@ -1,0 +1,22 @@
+Access modifier
+methods and variables can be:
+1. public- accecable everywhere
+2. default -  given by default, when key words are not given.
+            its only accecable within the same package... class in Day29 cannot call default from day30 class
+3. private- access to the class is very limited, cannot be used outside the class
+4. protected
+
+
+Top level classs can hold two access modifiers:public and default
+
+
+
+PUBLIC:
+to call public from a different package:  Import -> packageName.->className
+    int defaultAccess =1000;//default
+    public int publicAccess=2000;//public
+
+PRIVATE:
+only accessable in the same class
+private long SSN - you can only use this ssn variable inside of this class.
+                - cannot be accessed even if in the same package, but different classes

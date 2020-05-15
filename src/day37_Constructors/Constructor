@@ -1,0 +1,64 @@
+public class Constructor_Calls {
+// Constructors can be overloaded.
+// Constructor can be called byt the 2 ways, by the default/automatically ( each time when object is created ). Or you can call it manually
+// ( ps. default it's when constructor is already there but it's implicit/hiddden )
+// And you can leave it empty or pass some parameters…
+// Constructor can accept any of the methods ( instance and statics )
+// Only constructor can call/pass another constructor. BUT it should be special key word " this( ) " ( so you can't simply pass another constructor buy it's name )
+// this ( ) is same as for instances but for calling constructors
+//* ALSO instance method can accept/take static methods inside of the body.
+//* But Static method never accept instance method, because it accepts only static variables, or methods.
+//* And no one of the instance and static can't take/pass constructors in their bodys.
+//* (ps. you can pass static in static )
+//================= ORIGINAL DEFAULT CONSTRUCTOR 1 ===============>
+// That called inside of it body 2 methods ( static and void )
+// Empty, no parameters
+// Constructor can accept any of the methods ( instance and statics )
+// ONLY constructor can call another constructor
+// TO CALL IT there should be special key word " this( ) "
+// this ( ) is same as for instances but for calling constructors
+    public Constructor_Calls() {
+//        method1(); // static
+//        method2(); // instance
+        System.out.println("Default constructor");
+    }
+//================== OVERLOADED CONSTRUCTOR 2 =================>
+    public Constructor_Calls(int a) { // executes second
+// If you don't pass any parameters in the "this()" it gonna be called
+// and executed FIRST default constructor
+// " public Constructor_Calls() { "
+    this(); // "Defaut constructor" ---> executes first
+        System.out.println("Constructor with int argument");
+    }
+//================== OVERLOADED CONSTRUCTOR 3 =================>
+    public Constructor_Calls(String b) {
+        this(10);
+        System.out.println("Constructor with int argument");
+    }
+    //================= MAIN METHOD CALL OBJECTS =================>
+// It will execute default constructor, because no parameters was passed
+    public static void main(String[] args) {
+        Constructor_Calls object1 = new Constructor_Calls();
+// It will execute "OVERLOADED CONSTRUCTOR 2", because parameter is passed
+        Constructor_Calls object2 = new Constructor_Calls(10);
+    }
+//=================== METHODS ====================>
+// Static method never accept instance method, because it accepts only static variables, or methods.
+    public static void method1() {
+        method3(); // static
+        //method2(); ===> IT CAN'T ACCEPT INSTANCE METHOD
+        //Constructor_Calls(); ===> ERROR WE CAN'T PASS CONSTRUCTOR IN THE METHODS
+    }
+    // Instance method can accept/take static methods inside of the body.
+    public void method2() {
+        method1(); // static
+        method3(); // static
+        //Constructor_Calls(); ===> ERROR WE CAN'T PASS CONSTRUCTOR IN THE METHODS
+    }
+    public static void method3() {
+        method1();
+    }
+    {
+        // INSTANCE BLOCK
+    }
+}
