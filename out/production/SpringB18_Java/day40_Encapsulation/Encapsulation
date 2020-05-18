@@ -22,7 +22,8 @@ Encapsulation is hiding the data. how:
         }
 
 
-    getter is used to retrieve data
+    getter is used to retrieve data, return type must match with instance variable's data type.
+    if private int- >public int get
     private long SSN;
 
     //this is a getter method, return type has to be the same type. if int->int, etc
@@ -30,7 +31,7 @@ Encapsulation is hiding the data. how:
     public long getSSN{
 
 }
-    setter will set the value to it
+    setter will set the value to it, the parameter has to match the instance variable data type
     setter is always void, as it is modifier only
     passes parameter
      public void  setSSN(long SSN){

@@ -3,52 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b94b9a75-eb3c-4226-851e-e40d2fa5873f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/AlterArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/ArrayCountEvens_107.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/ArrayLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/ArrayList_AppendPostSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/Arrays_Average_119.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/Arrays_loopString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/MethodReturn_165.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/MethodReturn_room_164.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/MethodString_removeDuplicate_167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/MethodWithReturn_162.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/MethodWithReturn_163.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/MethodsWithString_169.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/ShoppintList2_085.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/ShoppintList2_085.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/methodMergeString_166.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/methodRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/methodsWithReturn2_157.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/methods_145PlusMinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/testPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/Replit/testPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day23_Methods/UniqueVAlue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day23_Methods/UniqueVAlue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day37_Constructors/Constructor" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day37_Constructors/Constructor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day39_AccessModifier/AccessModifier" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day39_AccessModifier/AccessModifier" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day39_AccessModifier/AccessModifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day39_AccessModifier/AccessModifiers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day39_AccessModifier/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day39_AccessModifier/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/_4_15_2020/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OfficeHours/_4_15_2020/ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/AlterArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Arrays/AlterArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/ArrayCountEvens_107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Arrays/ArrayCountEvens_107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/ArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Arrays/ArrayLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/ArrayList_AppendPostSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Arrays/ArrayList_AppendPostSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/Arrays_Average_119.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Arrays/Arrays_Average_119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/Arrays_loopString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Arrays/Arrays_loopString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/MethodReturn_165.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/MethodReturn_165.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/MethodReturn_room_164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/MethodReturn_room_164.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/MethodString_removeDuplicate_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/MethodString_removeDuplicate_167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/MethodWithReturn_162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/MethodWithReturn_162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/MethodWithReturn_163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/MethodWithReturn_163.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/MethodsWithString_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/MethodsWithString_169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/ShoppintList2_085.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/ShoppintList2_085.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/methodMergeString_166.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/methodMergeString_166.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/methodRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/methodRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/methodsWithReturn2_157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/methodsWithReturn2_157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/methods_145PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/Methods/methods_145PlusMinus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/testPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/testPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_Methods/UniqueVAlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Methods/UniqueVAlue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/Constructor" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/Constructor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifier/AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifier/AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifier/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/Resources/Encapsulation_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/Resources/Encapsulation_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day40_Encapsulation/Encapsulation" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day40_Encapsulation/Encapsulation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day40_Encapsulation/Encapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day40_Encapsulation/Encapsulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day40_Encapsulation/PersonObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day40_Encapsulation/PersonObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day40_Encapsulation/PersonObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day40_Encapsulation/PersonObjects.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,65 +61,101 @@
     <option name="myElementSize" value="15" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-                  <folding>
-                    <element signature="e#113#114#0" expanded="true" />
-                    <element signature="e#139#140#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Test.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="10" column="41" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="10" selection-end-column="41" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Practice/Arrays">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="55" selection-start-line="55" selection-end-line="55" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="44" selection-start-line="44" selection-end-line="44" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Resources/Encapsulation_Test.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Inharitance">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/BooksObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/audioBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/eBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="121" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Fish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -193,22 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Replit/PosSum.java" />
-        <option value="$PROJECT_DIR$/src/day_38_Constructors/Item.java" />
-        <option value="$PROJECT_DIR$/src/day_38_Constructors/SalaryCalculator.java" />
-        <option value="$PROJECT_DIR$/src/day_38_Constructors/ShoppingList.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/InstanceTest.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/Instances.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/Student.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/statics.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/staticBlocks.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/Constructor.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/_5_13_20/Constructor_Overload.java" />
-        <option value="$PROJECT_DIR$/src/Practice/PhoneNumberValidator.java" />
-        <option value="$PROJECT_DIR$/src/Replit/ArrayList_AppendPostSum.java" />
-        <option value="$PROJECT_DIR$/src/Replit/PicturePrinter_voidMethod.java" />
-        <option value="$PROJECT_DIR$/src/Replit/isPos_VoidMethods.java" />
-        <option value="$PROJECT_DIR$/src/day39_AccessModifier/Car.java" />
         <option value="$PROJECT_DIR$/src/day39_AccessModifier/CarObject.java" />
         <option value="$PROJECT_DIR$/src/day39_AccessModifier/EmployeeObject.java" />
         <option value="$PROJECT_DIR$/src/day39_AccessModifier/Employee.java" />
@@ -225,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/day23_Methods/UniqueVAlue.java" />
         <option value="$PROJECT_DIR$/src/OfficeHours/_4_15_2020/ForEachLoop.java" />
         <option value="$PROJECT_DIR$/src/Replit/Method_printUniqueNum.java" />
-        <option value="$PROJECT_DIR$/src/day40_Encapsulation/PersonObjects.java" />
         <option value="$PROJECT_DIR$/src/day40_Encapsulation/Person.java" />
         <option value="$PROJECT_DIR$/src/day40_Encapsulation/Credentials.java" />
         <option value="$PROJECT_DIR$/src/Replit/ShoppintList2_085.java" />
@@ -241,16 +219,34 @@
         <option value="$PROJECT_DIR$/src/Replit/Methods/Methods_AddToArray.java" />
         <option value="$PROJECT_DIR$/src/Replit/Methods/Method_printUniqueNum.java" />
         <option value="$PROJECT_DIR$/src/day40_Encapsulation/Test.java" />
-        <option value="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation" />
-        <option value="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" />
         <option value="$PROJECT_DIR$/src/Resources/Encapsulation_Test.java" />
+        <option value="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation" />
+        <option value="$PROJECT_DIR$/src/day38_Constructors/Circle.java" />
+        <option value="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/Replit/Methods/PersonClass.java" />
+        <option value="$PROJECT_DIR$/src/day40_Encapsulation/PersonObjects.java" />
+        <option value="$PROJECT_DIR$/src/Replit/Methods/PersonObject.java" />
+        <option value="$PROJECT_DIR$/src/Replit/Methods/Person.java" />
+        <option value="$PROJECT_DIR$/src/Replit/Encapsulation/StoreProduct.java" />
+        <option value="$PROJECT_DIR$/src/Replit/Encapsulation/StoreProduct_Object.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/Fish.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/Dog.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/Штрукшефтсу" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/Inharitance" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/eBook.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/audioBook.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/Book.java" />
+        <option value="$PROJECT_DIR$/src/day41_Inheritance/BooksObject.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1398" />
-    <option name="height" value="1048" />
+    <option name="x" value="795" />
+    <option name="y" value="226" />
+    <option name="width" value="980" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -262,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,45 +293,19 @@
               <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day40_Encapsulation" type="462c0819:PsiDirectoryNode" />
+              <item name="day39_AccessModifier" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OfficeHours" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OfficeHours" type="462c0819:PsiDirectoryNode" />
-              <item name="_4_15_2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OfficeHours2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="day41_Inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Replit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Replit" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
@@ -343,22 +314,15 @@
               <item name="Replit" type="462c0819:PsiDirectoryNode" />
               <item name="Methods" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringB18_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringB18_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589772819794" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589820501881" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
@@ -382,7 +346,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Encapsulation_Test">
+  <component name="RunManager" selected="Application.BooksObject">
+    <configuration name="BooksObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.BooksObject" />
+      <module name="SpringB18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Dog" />
+      <module name="SpringB18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Encapsulation_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Resources.Encapsulation_Test" />
       <module name="SpringB18_Java" />
@@ -396,21 +386,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_printUniqueNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.Methods.Method_printUniqueNum" />
-      <module name="SpringB18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Replit.Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methods_AddToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.Methods.Methods_AddToArray" />
+    <configuration name="PersonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replit.Methods.PersonObject" />
       <module name="SpringB18_Java" />
       <extension name="coverage">
         <pattern>
@@ -435,26 +412,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Arrays.Uniques" />
-      <module name="SpringB18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day19_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BooksObject" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.PersonObject" />
         <item itemvalue="Application.Encapsulation_Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Method_printUniqueNum" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.Methods_AddToArray" />
       </list>
     </recent_temporary>
   </component>
@@ -490,13 +454,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20872483" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21140939" />
       <window_info id="Structure" order="6" weight="0.24966443" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" weight="0.35612535" />
@@ -507,7 +472,7 @@
       <window_info anchor="bottom" x="23" y="208" width="1490" height="408" id="Debug" order="6" weight="0.5811966" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49932885" visible="true" weight="0.37891737" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49932885" visible="true" weight="0.37891737" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32905984" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -758,189 +723,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/AccessModifier">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="103" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/PersonObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Credentials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/ShoppintList2_085.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="66" column="20" selection-start-line="58" selection-start-column="6" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/CountAppearance_156.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/methodMergeString_166.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/methodRectangle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/methods_145PlusMinus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/MethodsWithString_169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/MethodReturn_room_164.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/MethodReturn_165.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OfficeHours2/day3_String/numberOfE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/MethodString_removeDuplicate_167.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/methodsWithReturn2_157.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelfStudy/loops/reverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="9" selection-start-column="102" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/methods_rules">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day37_Constructors/Constructor">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Diving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_Arrays/Arrays_Intro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_Arrays/Arrays_Practice1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-256">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_Arrays/Arrays_Practice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19_Arrays/Frequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/pizzaObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Replit/Methods/pizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-774">
@@ -1025,13 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice/Arrays">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OfficeHours/_4_15_2020/ArraysUtility.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-60">
@@ -1087,35 +862,264 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Resources/Encapsulation_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="7" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="126">
+          <caret line="33" column="95" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice/Arrays">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="41" selection-start-line="8" selection-start-column="7" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="189">
           <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day27_DateTime/Dates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day28_DateTime/DateTimeFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Resources/Encapsulation_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/day27_DateTime/Dates_format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day28_DateTime/DateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day40_Encapsulation/PersonObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/SalaryCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day38_Constructors/EmployeeSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day39_AccessModifier/CarObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Replit/Encapsulation/StoreProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Replit/Encapsulation/StoreProduct_Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Replit/Methods/PersonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="121" selection-start-line="6" selection-start-column="121" selection-end-line="6" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Inharitance">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/audioBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/eBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day41_Inheritance/BooksObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
