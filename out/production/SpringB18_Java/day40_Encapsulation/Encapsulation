@@ -1,0 +1,44 @@
+OOP
+-Encapsulation
+-Inheritance
+-
+
+
+Encapsulation is hiding the data. how:
+1. by giving PRIVATE access modifier
+    public class Encapsulation {
+        private long SSN=123456;// created instance
+
+    it will obly be accecable in the same class, not at other classes even in the same package
+2.  use the private data through getter and setter
+    getter will get the private data, its read only
+        public long getSSN(){//getSSN is instance
+             return SSN;
+          }
+    In another class I can create a new obj. and print out the value of the SSN
+    public static void main(String[] args) {
+            Encapsulation obj =new Encapsulation();
+            System.out.println(obj.getSSN());
+        }
+
+
+    getter is used to retrieve data
+    private long SSN;
+
+    //this is a getter method, return type has to be the same type. if int->int, etc
+    no parameters
+    public long getSSN{
+
+}
+    setter will set the value to it
+    setter is always void, as it is modifier only
+    passes parameter
+     public void  setSSN(long SSN){
+            this.SSN=SSN;
+        }
+     setter will not print out the value of the obj.SSN(123456) because it is private
+     obj.setSSN(123456);
+     we will have to print it out through getter, like below:
+                  System.out.println(obj.getSSN());
+
+     If I need to access private dasta in another class outside of home class, I will have to import it

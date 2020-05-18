@@ -1,0 +1,55 @@
+Array
+int[] num= new
+
+Arrays is a utility we have to import it from JRE
+Arrays.toString() - will print out an array in a string format
+Arrays.sort () => will print out content of Array in accending order
+
+int [] num= {5,7,9,5,4,2,3};
+Arrays.sort(num);
+num={2,3,4,5,5,7,9}
+
+to make it descending order:
+Arrays.sort(nums);
+int [] arrDesc= new int[num.length]; new array thats exact same size as num array
+int k=0- created to store a new descending array list of nums
+                         i>=0 it means it   will stop at index 0
+for(int i=num.length()-1;i>=0; i--){
+arrDesc[k]=arr[i];
+k++;
+} sout (Arrays.toString(arrDesc));
+
+
+Arrays.equals(arr2,arr1)--- this is boolean and will return true or false
+
+
+toCharArray();
+String str="BAtch 18" here all characters, including space is a character
+char ch []=str.toCharArray(); -> [B,a,t,c,h,' ',1,8]
+System.out.println(Arrays.toString(ch));
+
+
+DecimalFormat
+DecimalFormat df=new DecimalFormat("0.00"); here we declare how we want the
+                                            decimal to be formatted. it should always be given in a string format
+double a=10/3;
+sout(df.format(a) )
+
+
+   public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        String[] words = {input.nextLine(), input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine()};
+        for (int i = 0; i < words.length; i++) {
+            String eachWords = words[i];
+            String m = eachWords.substring(0, 1);
+            String n= eachWords.substring(eachWords.length()-1, eachWords.length());
+            System.out.print(m+n+ " ");
+        }
+    }}
+/*
+Given a String array words, iterate through each word and print first and last letter of each element in separate lines.
+ */
+
+
+ Longest and shortest word in the array
+

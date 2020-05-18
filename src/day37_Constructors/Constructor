@@ -1,6 +1,6 @@
 public class Constructor_Calls {
 // Constructors can be overloaded.
-// Constructor can be called byt the 2 ways, by the default/automatically ( each time when object is created ). Or you can call it manually
+// Constructor can be called by 2 ways, by the default/automatically ( each time when object is created ). Or you can call it manually
 // ( ps. default it's when constructor is already there but it's implicit/hiddden )
 // And you can leave it empty or pass some parameters…
 // Constructor can accept any of the methods ( instance and statics )

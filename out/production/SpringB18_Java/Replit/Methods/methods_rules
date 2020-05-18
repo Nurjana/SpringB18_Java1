@@ -1,0 +1,8 @@
+There are three main types of methods: interface methods, constructor methods, and implementation methods.
+ Most beginner programmers are familiar with implementation methods.
+
+public static boolean validateTask(boolean notEmpty, int taskId, int currentId) {
+        Boolean result = true;
+        {condition}
+        return result;
+    }

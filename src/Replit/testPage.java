@@ -1,8 +1,6 @@
 package Replit;
 
-import java.util.Scanner;
-
-import static Replit.methodMergeString_166.mergeStrings;
+import static Replit.Methods.methodMergeString_166.mergeStrings;
 
 public class testPage {
     public static void main(String[] args) {

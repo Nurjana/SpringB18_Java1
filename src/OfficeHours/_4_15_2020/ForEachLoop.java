@@ -15,7 +15,7 @@ public class ForEachLoop {
                 //continue;
                 break;
             }
-            System.out.println(each);
+            System.out.println(each);//will print all except for declared 3-> 1 2
         }
 
         System.out.println("=====================================");
