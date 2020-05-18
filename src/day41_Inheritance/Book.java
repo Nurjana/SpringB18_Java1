@@ -7,7 +7,7 @@ public class Book {
     public double price;
 
     public String toString(){
-        return title+ " title, "+type+" type, $"+price+" price";
+        return title+ " title, "+",Author: "+author+ ", price $"+price;
     }
 
 }

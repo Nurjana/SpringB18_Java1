@@ -6,3 +6,5 @@ public class Dog extends Animal{ this is how sub class inherits from super class
 Inheritance is-a relationship between classes
 what can be inherited:
 only visible variables and methods
+
+sub class can get variables and methods from parent class
