@@ -8,3 +8,6 @@ what can be inherited:
 only visible variables and methods
 
 sub class can get variables and methods from parent class
+
+IS-A relationship between classes
+HAS-A - is something we create specifically for the class that inherited from another class
