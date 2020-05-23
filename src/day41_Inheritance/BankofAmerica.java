@@ -6,7 +6,7 @@ public class BankofAmerica {
         BankAccount Irina = new BankAccount("Irina", "Li");
         //  System.out.println( Irina.accountHolder );
         System.out.println(Irina.getAccountHolder());
-
+        System.out.println(Irina);
         System.out.println(Irina.getBalance());
 
         Irina.checkBalance();

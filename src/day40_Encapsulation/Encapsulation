@@ -9,7 +9,7 @@ Encapsulation is hiding the data. how:
     public class Encapsulation {
         private long SSN=123456;// created instance
 
-    it will obly be accecable in the same class, not at other classes even in the same package
+    it will only be accecable in the same class, not at other classes even in the same package
 2.  use the private data through getter and setter
     getter will get the private data, its read only
         public long getSSN(){//getSSN is instance
@@ -20,7 +20,6 @@ Encapsulation is hiding the data. how:
             Encapsulation obj =new Encapsulation();
             System.out.println(obj.getSSN());
         }
-
 
     getter is used to retrieve data, return type must match with instance variable's data type.
     if private int- >public int get

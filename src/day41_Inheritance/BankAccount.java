@@ -35,9 +35,8 @@ public class BankAccount {
         return accountHolder;
     }
 
-//    public void setAccountHolder(String firstName, String lastName) {
-//        this.accountHolder = firstName + " " + lastName;
-//    }
+
+
 
     public long getAccountNumber() {
         return accountNumber;

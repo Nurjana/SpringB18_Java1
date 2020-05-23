@@ -5,9 +5,51 @@ public class Dog extends Animal{ this is how sub class inherits from super class
 
 Inheritance is-a relationship between classes
 what can be inherited:
-only visible variables and methods
+only visible variables and methods, not private
 
 sub class can get variables and methods from parent class
 
 IS-A relationship between classes
 HAS-A - is something we create specifically for the class that inherited from another class
+
+
+Protected access modifier
+public
+protected
+default
+private
+
+Protected is visible in same package, visible in sub class outside package
+
+
+Inheritance
+one class can only extend one class
+one class can be extended by multiple classes
+Constructor is not inherited
+private-never can be inherted to subclass
+default can be inherited as long as sub class is in the same package
+
+
+public and protected=always can be inherited
+
+CONSTRUCTORS in Inheritance
+constructor calls:
+1. at least one parent's class constructors must be called
+2. super class' constructor cannot call sub class' constructor
+3. sub class' constructor can call super class' constructor
+4. Only constructor can call another constructor, i.e child class can call parent class' constructor through his own
+5. Child class'  constructor cannot call more than 1 constractor form parent
+    class parent(){
+    public parent(int a){  -> constructor of a parent class
+      }
+}
+    public child extends parent(){
+    public Constructor (){
+    super(15);                   -> "super" calls constructor, inside braces add value,
+                                    in this case int, because parent class' constructor declared int
+    }
+    }
+
+    super() used for calling constructor from super class
+    super. used to call instance variables and methods from super class
+

@@ -1,0 +1,139 @@
+method overloading:
+- same method name, but different parameter
+- return type can be same or different
+- access modifier can be same or different(public, protected, default,private)
+- any method can be overloaded
+    public void method(){}
+    public void method(int a){//overloading above default method with a new method containing int
+    }
+
+method overriding:
+-same method name, same parameter,same return type
+-MUST happen in the sub class
+- access modifier has to be either same or more visible, i.e public CANNOT be protected,
+                                                             or protected ->private
+- only instance method can be overriden, NOT static
+
+      public void method(){}
+
+    //public void method(){} //cannot override method in the same class
+}
+
+@override- to check the method if its overriden or not, put above the method
+
+
+METHOD OVERRIDING:
+-------------------
+
+When an INHERITED Method is re-created in Sub class with
+same method name, same parameters, same return type
+this process is called method overrding.
+
+When do we need method overriding?
+
+Whenever a method is inherited and sub class is not happy
+about its implementation, then sub class,we can override the method
+to customize for subclass.
+
+Only INHERITED METHODS from super class are Overriden.
+We cannot override a method in same the class.
+
+
+public class Student {
+public void attendAClass() {
+System.out.println("Student attending a class");
+}
+}
+=============================
+
+@Override => annotation, is used to put on top of methods,
+and it will check if you actually did overriding or not.
+If a method was not overriden, it will show error.
+
+A method in SubClass overrides a method in Super class.
+==========================================
+
+Method overriding is when 2 methods have same name and same
+parameters, same return type.
+Only inherited methods can be overriden.
+
+Method overloading is when 2 methods have same name but
+different parameters.
+============================================
+
+In Method Overriding, method signature MUST BE same.
+
+In Method Overloading, method signature MUST BE different.
+
+=============================================
+
+When we override We custimize method to its sub class.
+====================================
+
+A > B > C
+
+public class A {
+public void m1() {
+print "A method";
+}
+}
+
+public class B extends A {
+
+public void m1() {
+print "B method";
+}
+}
+
+public class C extends B {
+
+}
+======================
+
+public class A {
+void m1() {
+print "A method";
+}
+
+}
+
+public class B extends A {
+
+protected void m1() {
+print "B method";
+}
+}
+
+public class C extends B {
+
+@Override
+public void m1() {
+print "C method";
+}
+}
+==========================
+
+Overriding rules:
+
+- method must be inherited from Super class
+- overriding method must have same signature(same name and
+parameters)
+- return type must the same or covariant type(Sub class type)
+- access modifier must be same or more visible
+- throwing exceptions rule:
+
+Overloading rules:
+
+2 methods with same name and different parameters
+
+return type, access modifiers or any other components can be
+same or different. Does not matter.
+==> Java Treats Overloaded Methods as Independent and
+separate methods.
+========================
+
+Methods from Object super class that are normally
+overriden:
+toString
+equals
+hashCode
