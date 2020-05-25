@@ -21,7 +21,7 @@ public class ArraysUtilities {
 
         System.out.println( Arrays.toString( nums )  );
 
-        System.out.println( nums[0] + 1  );
+        System.out.println( nums[0] + 1  );//11
 
 
     }
