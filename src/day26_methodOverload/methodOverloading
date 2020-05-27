@@ -1,0 +1,7 @@
+Overloading:
+-method has to have same name, but different parameters
+-return type doesn't matter
+
+Public static name(){
+sysout}
+
