@@ -1,0 +1,188 @@
+Value of static variable can be changed and final's-no.
+Final instance variable has to be initialized right away, before main method is executed.
+ final int i=200;- I HAVE to assign value
+ static int b;- I can declare variable in main class
+
+ Getter  can only return private data, it is needed for read only
+
+ private int data1=200;
+
+ public int getData1(){
+ return data1; }
+
+ setter- return value has to exactly match instance variable and "this." has to be used.
+ setter cannot be set to a "final" variable
+
+ short cut to autogenerate getter and setter
+ Alt+ insert or right click and choose Generate
+
+Overriding final
+private final void method1(){
+        System.out.println("A");
+    }
+    cannot be overriden
+
+
+ABSTRACTION
+Abstraction is a process of showing the features/ behaviour but hiding the implementation.
+
+           When we do abstraction in programming, we create abstract classes/methods that only show some features and behaviour
+           but we do not specify the details of implementation.
+
+           When we step on gas pedal , it accelarates. But we do not know how it is implemented/happening.
+           and depending on the car type the same behaviour or feature might be happening differently.
+           =========================================
+
+           How does abstraction happen in Java?
+           2 ways of achieving absraction in java:
+           Creating:
+           - abstract classes
+           - interfaces
+           ======================
+
+           Abstract classes:
+           is used in java to achieve abstraction,
+           and we can use "abstract" keyword when creating the class.
+
+           public abstract class File {
+
+           }
+
+           public class File {
+
+           }
+
+           1) We cannot create objects from abstract classes
+
+           File file = new File(); => will not work.
+           Abstract classes normally are used for high level classes and we do not create object from them.
+
+           They are used to describe properties and behaviour that other sub classes will implement.
+
+           FlyingObject
+
+           Plane, Bird, Drone, Helicopter
+
+
+           FlyingObject here is a good candidate to be absract class as it is very high level and can be good base for other sub classes.
+
+           Browser
+
+           safari Chrome FireFox IE Opera
+           ======================================
+
+
+           Building
+
+           different types of buildings can be sub classes for abstract class Building.
+           ============================
+
+
+           File
+
+           .java word file image excel
+
+           public abstract class File {
+           public abstract void open();
+
+
+           }
+
+           File is general/abstract idea and we might have different types of files. So it is a good candidate for abstract class.
+
+           open() is a absract method, when you look at it, we know what it does, but at this point we do not know the implementation. it is hidden
+
+           Abstract method => can be added to abstract classes/cannot be added to normal(non-absract) classes.
+
+           It will not have any method body(implementation),
+           just the signature, return type, and access modifier.
+
+           public absract void method1(String str);
+
+           ===========================
+
+           2. Abstract classes can have abstract methods and non-abstract methods.
+
+           public abstract class File {
+           public abstract void open();
+
+           public void close() {
+           System.out.println("Close the software and file");
+           }
+
+           }
+
+           File(Abstract) > XLSFile
+
+           - File is an abstract parent class,
+           - We cannot instantiate(create object) of File
+           - Serves as a base/foundation class for its
+           sub classes
+           - It may include abstract methods(methods without body), non-abstract methods
+
+           XLSFile > is a sub class for abstract class
+           > Concrete class
+
+
+
+           Abstract class > Concrete class.
+
+           Concrete class is a Non-Abstract child class of abstract class.
+           ===============================
+
+
+           File > XLSFile
+           > JPGFile
+
+           ====================
+
+           Abstract classes:
+           - use abstract keyword to create
+           - cannot create object
+           - can contain abstract methods(without body)
+           - can have non-abstract methods
+           - instance variable/static variables
+           - constructor(s)
+           - Abstract classes can have Abstract sub/child classes
+
+
+           A > B > C > D
+
+           Person > Employee > FTEmployee
+           > Contractor
+
+           Person: String fullName
+           : int age
+           : abstract speak
+
+           Employee: String jobTitle
+           : salary
+           : abstractMethod work
+
+           FTEmployee: double bonus
+
+           Contractor: hourlyRate
+           contractPeriod
+           ===========================
+
+
+           abstract class Person
+           public abstract void speak();
+
+           abstract class Employee extends Person
+           public abstract void work();
+
+           If a abstract class extends another abstract class,
+           it does not have to implement/override abstract methods from parent class.
+
+           class FTE extends Employee
+           speak();
+           work();
+
+           FTE is a first concrete class that is responsible for overriding/providing implementation for
+           all abstract methods from parent abstract classes.
+           ========================
+Method
+    CLASS
+    Final class can never be a parent class
+    Final and abstract can never be used together, like public abstract final class_NEVER

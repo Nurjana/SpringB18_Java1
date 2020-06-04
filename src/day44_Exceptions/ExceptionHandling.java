@@ -10,9 +10,14 @@ public class ExceptionHandling {
             System.out.println(description);
         }
         System.out.println("=============================");
-
-
-
+        try {
+            System.out.println(100/0);
+            System.out.println("Try block");
+        }catch (ArithmeticException e){
+            System.out.println("Catch block");
+            String description =e.getMessage();
+            System.out.println(description);
+        }
 
         System.out.println("Completed");
     }
