@@ -8,3 +8,5 @@ Interface is the blue print of the class, means it is used to specify the behavi
 -in interface you are  creating an abstract method without specifying its abstract
 -public access modifier is given by default
 -interface will not accept protected, private
+-when using interface class as a super class, we call it super type
+ inheritance will be through key word "implements" instead of extends
