@@ -9,7 +9,7 @@ public class Device {
     public String size;
 
 
-
+    public Device(){}
     public String toString(){
         return "Brand: "+brand+", Model: "+model+", Type: "+type+", size: "+size+", Price: $"+price+", Made in: "+country;
     }

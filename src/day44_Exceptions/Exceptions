@@ -46,6 +46,21 @@ finally: always gets executed regardless of the exception
          it has to go after try -> catch
          try{} catch{} finally{}
 
+
+SAVE THE CODE that changes millis to seconds
+
+    public static void main(String[] args) {
+        System.out.println("Java");
+        waits(2);
+        System.out.println("Cybertek");
+        waits(2);
+    }
+    public static void waits(double seconds){
+        try {
+            Thread.sleep((long)(seconds*2000));// assigning new big num to long, explicit casting
+        }catch (Exception e){}
+    }
+
     Exception//parent exception (IOException, CassNotFoundException,CloneNotSupportedException, RunTimeException)
     -> RunTime Exception
         ->ArithmeticException

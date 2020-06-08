@@ -1,5 +1,5 @@
 Value of static variable can be changed and final's-no.
-Final instance variable has to be initialized right away, before main method is executed.
+Final instance variable has to be initialized right away, before main method is executed.CANNOT be changed
  final int i=200;- I HAVE to assign value
  static int b;- I can declare variable in main class
 
@@ -16,11 +16,23 @@ Final instance variable has to be initialized right away, before main method is 
  short cut to autogenerate getter and setter
  Alt+ insert or right click and choose Generate
 
+final: constant, cannot be changedcan only be applied to:
+1. variables: cannot be reassigned
+2. methods: implementation of the method can never be changedfinal methods
+cannot be override, can be overloadconstructors cannot be final
+3. class: immutable class, cannot be inherited
+final class cannot be super class
+
+blocks and construcotrs cannot be final
+
 Overriding final
 private final void method1(){
         System.out.println("A");
     }
     cannot be overriden
+
+
+
 
 
 ABSTRACTION
@@ -122,9 +134,6 @@ Abstraction is a process of showing the features/ behaviour but hiding the imple
 
            XLSFile > is a sub class for abstract class
            > Concrete class
-
-
-
            Abstract class > Concrete class.
 
            Concrete class is a Non-Abstract child class of abstract class.

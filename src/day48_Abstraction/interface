@@ -1,0 +1,10 @@
+Interface is the blue print of the class, means it is used to specify the behavior that class needs to implement
+-used for achieving abstraction
+-keyword interface has to be used when creating a class:
+        public interface name{}
+- main purpose is to achieve abstraction
+-you have to create an abstract method in interface class
+-create an interface class can be done directly when creating a class by choosing not Java class as usual, but selecting interface
+-in interface you are  creating an abstract method without specifying its abstract
+-public access modifier is given by default
+-interface will not accept protected, private
