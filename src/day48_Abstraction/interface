@@ -10,3 +10,19 @@ Interface is the blue print of the class, means it is used to specify the behavi
 -interface will not accept protected, private
 -when using interface class as a super class, we call it super type
  inheritance will be through key word "implements" instead of extends
+
+ Why do we need interface:
+ A class can ingerit from ONE class only (extends)
+ A class can inherit  multiple interfaces (implements)
+
+what we have in interface
+-variables static and final
+-methods
+
+what we cannot have in interface
+-constructor
+instance variable
+instance method
+instance block
+static block
+
