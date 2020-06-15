@@ -3,6 +3,7 @@ package day13_StringClass;
 public class StringManipulations3 {
     public static void main(String[] args) {
         String str = "I like Java programming John";
+        String str5= new String();
 
         int num1 =   str.indexOf("John");
 
