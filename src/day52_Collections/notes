@@ -1,0 +1,21 @@
+Data structure: in order to manage data efficiently and in organized manner:
+                -Array
+                -Collections
+                -Map
+
+Array:
+        -size is fixed
+        -supports primitives and objects
+        -can be multi-dimentional
+        -has index and accepts duplicates
+
+Collections frameworl:
+        -iported from Java util package
+        -consist of multiple interfaces
+
+
+ITERABLE: root interface, su[er type of all interfaces in collections framework
+
+Collections:
+        -size is dynamic
+        -cannot store primitives and can be  multi-dimentional

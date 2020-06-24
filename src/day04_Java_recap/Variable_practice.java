@@ -75,6 +75,9 @@ public class Variable_practice {
 
         boolean r1 = !true; // false
 
+        double n=15.6;
+        float g=(float)n;
+        System.out.println(g);
 
 
 
