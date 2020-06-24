@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b94b9a75-eb3c-4226-851e-e40d2fa5873f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day04_Java_recap/Variable_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day04_Java_recap/Variable_practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day43_MethodOverriding/methodOverloading" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day43_MethodOverriding/methodOverloading" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day50_Polymorphism/Encapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day50_Polymorphism/Encapsulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringB18_Java/day50_Polymorphism/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringB18_Java/day50_Polymorphism/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replit/fibonacci_155.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replit/fibonacci_155.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_Java_recap/Variable_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_Java_recap/Variable_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day43_MethodOverriding/methodOverloading" beforeDir="false" afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/methodOverloading" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day50_Polymorphism/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Collections/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collections/Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Collections/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collections/notes" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day52_Collections/PracticeCollections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+            <state relative-caret-position="290">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -86,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day52_Collections/notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="316">
+              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -95,8 +89,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day52_Collections/Lists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="357">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collections/Q.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collections/set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collections/null_keyword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,9 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day48_Abstraction/Abstraction2.java" />
-        <option value="$PROJECT_DIR$/src/day48_Abstraction/Abstraction01.java" />
-        <option value="$PROJECT_DIR$/src/day48_Abstraction/Abstraction02.java" />
         <option value="$PROJECT_DIR$/src/day48_Abstraction/Interface2.java" />
         <option value="$PROJECT_DIR$/src/day48_Abstraction/Interface3.java" />
         <option value="$PROJECT_DIR$/src/day48_Abstraction/Reem's_notes" />
@@ -195,9 +219,12 @@
         <option value="$PROJECT_DIR$/src/Replit/Methods/palindromeNum.java" />
         <option value="$PROJECT_DIR$/src/Replit/fibonacci_155.java" />
         <option value="$PROJECT_DIR$/src/Replit/Methods/methodWithString.java" />
+        <option value="$PROJECT_DIR$/src/day52_Collections/PracticeCollections.java" />
         <option value="$PROJECT_DIR$/src/day52_Collections/notes" />
         <option value="$PROJECT_DIR$/src/day52_Collections/Lists.java" />
-        <option value="$PROJECT_DIR$/src/day52_Collections/PracticeCollections.java" />
+        <option value="$PROJECT_DIR$/src/day52_Collections/Q.java" />
+        <option value="$PROJECT_DIR$/src/day52_Collections/set.java" />
+        <option value="$PROJECT_DIR$/src/day52_Collections/null_keyword.java" />
       </list>
     </option>
   </component>
@@ -243,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592976673994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592981761262" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
@@ -267,7 +294,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PracticeCollections">
+  <component name="RunManager" selected="Application.null_keyword">
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Lists" />
+      <module name="SpringB18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day52_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PracticeCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day52_Collections.PracticeCollections" />
       <module name="SpringB18_Java" />
@@ -281,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.EncapsulationApple.Store" />
+    <configuration name="Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Q" />
       <module name="SpringB18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.EncapsulationApple.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_Switch_Scanner.Switch_Practice" />
+    <configuration name="null_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.null_keyword" />
       <module name="SpringB18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_Switch_Scanner.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,25 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04_Java_recap.practice" />
+    <configuration name="set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.set" />
       <module name="SpringB18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_Java_recap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="webAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_StringClass.webAddress" />
-      <module name="SpringB18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14_StringClass.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.null_keyword" />
+        <item itemvalue="Application.set" />
+        <item itemvalue="Application.Q" />
+        <item itemvalue="Application.Lists" />
         <item itemvalue="Application.PracticeCollections" />
-        <item itemvalue="Application.webAddress" />
-        <item itemvalue="Application.Switch_Practice" />
-        <item itemvalue="Application.Store" />
-        <item itemvalue="Application.practice" />
       </list>
     </recent_temporary>
   </component>
@@ -622,41 +649,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day16_ForLoop/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day23_Methods/Methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day03_ArithmeticOper/SalaryCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-790">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperators/unaryOperators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day04_Java_recap/Variable_practice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -953,27 +945,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day52_Collections/notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day14_StringClass/checkWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day52_Collections/Lists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1000,8 +975,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day52_Collections/PracticeCollections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        <state relative-caret-position="290">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collections/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1134">
+          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collections/Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collections/Q.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collections/set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collections/null_keyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

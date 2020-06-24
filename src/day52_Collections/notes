@@ -18,4 +18,4 @@ ITERABLE: root interface, su[er type of all interfaces in collections framework
 
 Collections:
         -size is dynamic
-        -cannot store primitives and can be  multi-dimentional
+        -cannot store primitives and can be  multi-dimentionalD
