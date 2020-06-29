@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b94b9a75-eb3c-4226-851e-e40d2fa5873f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_maps/Map_Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_maps/Map_Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_maps/Map_setEntries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_maps/Map_setEntries.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,14 +71,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day54_maps/Map_Practice1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="144">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day54_maps/Map_setEntries.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day54_maps/Map_setEntry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-166">
+              <caret line="9" column="68" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day54_maps/GarbageCollector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day54_maps/String_Builder_Buffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -124,11 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day48_Abstraction/interface" />
-        <option value="$PROJECT_DIR$/src/day49_Polymorphism/iPhone.java" />
-        <option value="$PROJECT_DIR$/src/day49_Polymorphism/phoneObject.java" />
-        <option value="$PROJECT_DIR$/src/day49_Polymorphism/Phone.java" />
-        <option value="$PROJECT_DIR$/src/day49_Polymorphism/Test.java" />
         <option value="$PROJECT_DIR$/src/day49_Polymorphism/Polymorphism_Intro.java" />
         <option value="$PROJECT_DIR$/src/day05_Unary_ShorthandOperators/leapYear.java" />
         <option value="$PROJECT_DIR$/src/Replit/CarInsurance.java" />
@@ -175,6 +214,11 @@
         <option value="$PROJECT_DIR$/src/Replit/Arrays/MakeALast.java" />
         <option value="$PROJECT_DIR$/src/day54_maps/Map_intro.java" />
         <option value="$PROJECT_DIR$/src/day54_maps/Map_Practice1.java" />
+        <option value="$PROJECT_DIR$/src/day54_maps/Map_setEntries.java" />
+        <option value="$PROJECT_DIR$/src/day54_maps/Map_setEntry.java" />
+        <option value="$PROJECT_DIR$/src/day54_maps/GarbageCOllector.java" />
+        <option value="$PROJECT_DIR$/src/day54_maps/GarbageCollector.java" />
+        <option value="$PROJECT_DIR$/src/day54_maps/String_Builder_Buffer.java" />
       </list>
     </option>
   </component>
@@ -231,7 +275,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593444221753" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593456314176" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
@@ -255,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Map_Practice1">
+  <component name="RunManager" selected="Application.String_Builder_Buffer">
     <configuration name="MakeALast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Replit.Arrays.MakeALast" />
       <module name="SpringB18_Java" />
@@ -295,12 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="null_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.null_keyword" />
+    <configuration name="Map_setEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_maps.Map_setEntries" />
       <module name="SpringB18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collections.*" />
+          <option name="PATTERN" value="day54_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.set" />
+    <configuration name="String_Builder_Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_maps.String_Builder_Buffer" />
       <module name="SpringB18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collections.*" />
+          <option name="PATTERN" value="day54_maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Builder_Buffer" />
+        <item itemvalue="Application.Map_setEntries" />
         <item itemvalue="Application.Map_Practice1" />
         <item itemvalue="Application.Map_intro" />
         <item itemvalue="Application.MakeALast" />
-        <item itemvalue="Application.null_keyword" />
-        <item itemvalue="Application.set" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +435,7 @@
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.25071225" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info active="true" anchor="bottom" id="Find" order="5" visible="true" weight="0.32763532" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32763532" />
       <window_info anchor="bottom" x="23" y="208" width="1490" height="408" id="Debug" order="6" weight="0.35588634" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -610,30 +654,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day26_methodOverload/methodOverloading2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice/EncapsulationApple/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day26_methodOverload/methodOverloading">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day26_methodOverload/MethodsOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1575">
@@ -1000,11 +1020,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day54_maps/Map_Practice1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="144">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day54_maps/Map_setEntries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day54_maps/GarbageCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day54_maps/Map_setEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day54_maps/String_Builder_Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>
