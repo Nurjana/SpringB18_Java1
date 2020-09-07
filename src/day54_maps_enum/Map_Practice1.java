@@ -1,6 +1,5 @@
-package day54_maps;
+package day54_maps_enum;
 import java.util.*;
-import com.sun.javafx.collections.MappingChange;
 
 import java.time.LocalDate;
 import java.util.LinkedHashMap;

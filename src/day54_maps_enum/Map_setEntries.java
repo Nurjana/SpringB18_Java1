@@ -1,4 +1,4 @@
-package day54_maps;
+package day54_maps_enum;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

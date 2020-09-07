@@ -1,4 +1,4 @@
-package day54_maps;
+package day54_maps_enum;
 
 public class GarbageCollector {
     public static void main(String[] args) {
